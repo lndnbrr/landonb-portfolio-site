@@ -54,8 +54,8 @@ Personal portfolio website built with Next.js and Tailwind CSS.
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/portfolio-site.git
-cd portfolio-site
+git clone https://github.com/lndnbrr/landonb-portfolio-site.git
+cd landonb-portfolio-site
 npm install
 ```
 
